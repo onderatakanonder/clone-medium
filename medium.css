@@ -1,0 +1,35 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+
+.nav-yellow {
+    background-color: #FFC017;
+}
+
+.border-b {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.text {
+    font-size: medium;
+}
+
+.aside-b > li {
+    margin-bottom: 10px;
+}
+
+.text-c {
+    text-decoration: none;
+    color: green;
+}
+
+.text-d {
+    text-decoration: none;
+}
+
+
+.border-r {
+
+    border-radius: 25%;
+}
